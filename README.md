@@ -65,6 +65,8 @@
    ```
 
    The backend will be available at `http://localhost:5000`.
-   ![image](https://github.com/user-attachments/assets/38a73b85-e73b-4d09-8e85-f774046f7827)
+   ![image](https://github.com/user-attachments/assets/eb0e1506-35e5-4afd-8c34-a80c4f0bdc69)
+   ![image](https://github.com/user-attachments/assets/1b850253-cc1c-487b-80b5-4ffc36e69285)
+
 
 
