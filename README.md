@@ -4,24 +4,6 @@
 
 # Dynamic User Availability and Event Scheduling System
 
-## Project Overview
-
-The Dynamic User Availability and Event Scheduling System is a full-stack web application that allows users to set their availability dynamically and enables admins to schedule sessions. Built with the MERN stack, it features a React frontend, an Express backend, and a MongoDB database. The application supports one-on-one and multi-participant sessions with a user-friendly interface.
-
-## Features
-
-- **User Availability Capture:** Users can log in, set availability for specific days or the entire week, and manage their availability slots.
-- **Admin Scheduling Interface:** Admins can view user availability, schedule sessions, and handle one-on-one or multi-participant sessions.
-- **Session Management:** View and manage scheduled sessions, including options to reschedule or cancel.
-- **Intuitive UI/UX:** Modern and responsive design using React, Vite, and Bootstrap.
-
-## Technology Stack
-
-- **Frontend:** React, Vite, Bootstrap
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Deployment:** Netlify (Frontend), Render (Backend)
-
 ## Setup Instructions
 
 ### Frontend
