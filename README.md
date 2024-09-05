@@ -6,7 +6,7 @@
 
 ## Setup Instructions
 
-### Frontend
+## Frontend
 
 1. **Clone the Repository:**
 
